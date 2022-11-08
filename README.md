@@ -24,6 +24,30 @@ The work will be organized according to the following plan:
 - Objective: Prepare a PowerPoint using the template provided to give an introduction to my Dissertation
 - Final: Filled in what I knew but there is still some elements missing.
 
+#### Semana 24/10 - 29/10
+- Objective: 
+	- Read a thesis from a previous year in a simular field
+	- Do a simple unity project using augmented reality
+- Final: 
+	- Read about half of the thesis. Decided to abandon it as it was poorly written.
+	- Finished the simple project but though to a bug, could not run it. (Asking for help with the teachers)
+	
+#### Semana 31/10 - 04/11
+- Objective: 
+	- Read a paper
+	- Fix the bug
+- Final: 
+	- Read half-way through the paper
+	- Fixed some other set-up problems within Unity but the original one persists
+
+#### Semana 07/11 - 11/11
+- Objective: 
+	- Try to fix that set-up situation
+	- Start doing a first implementation of a control guided robot in unity (without the use of the simulation)
+	- Finish reading the paper
+- Final:
+	- 
+	
 
 
 

@@ -2,8 +2,8 @@
 The work will be organized according to the following plan:
   1. Literature review of the state of the art on AR for robotics;
   2. Identification of possible usage scenarios and requirements;
-  3. Familiarization with Virtual and Augmented Reality SDK’s, 
-  API’s and Devices - ROS, Unity, Vuforia, OpenCV, etc;
+  3. Familiarization with Virtual and Augmented Reality SDKs, 
+  APIs and Devices - ROS, Unity, Vuforia, OpenCV, etc;
   4. Iterative design and development of prototypes;
   5. Continuous evaluation and testing of the developed prototypes
   to demonstrate their usefulness;
@@ -56,6 +56,22 @@ The work will be organized according to the following plan:
 	- Start doing a new Unity vuforia tutorial
 - Final: 
 	- Implemented a button to make basic movement
+	- Implementation of full movement controls (Not final)
+	- Use of AR and mobile GUI in unison
+	- Porting app to devices
+	- Organization of scholar papers
+	- Set-up of Mendeley 
+	- Re-visited previous read thesis and papers to bring their notes to the new program (Foxit)
+	- Continuation of tutorial for Vuforia
+
+#### Semana 28/11 - 2/12
+- Objective:
+	- Expand on the UI
+	- Finish reading the article
+	- Start writting thesis
+	- Iniciate the new tutorial
+- Final: 
+
 
 
 

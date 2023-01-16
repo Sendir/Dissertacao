@@ -1,37 +1,65 @@
 Tutorials:
-
 Nome da atividade: Unity for beginners
-Data:
-URL:
-Racional da seleÃ§Ã£o:
-Pequeno resumo dos resultados(aprendizagem/experiÃªncia/relevÃ¢ncia):
-
-Nome da atividade:
-Data: 12/11 - 13/11
+Data: 12/11 - 18/11
 URL: https://www.youtube.com/watch?v=xw6DR7uuNz0&list=PL0eyrZgxdwhwQZ9zPUC7TnJ-S0KxqGlrN
 Racional da seleção: Aprender o básico do unity e da programação. Apesar de ser em 2d o foco, continua a ter elementos que são importantes.
 Pequeno resumo dos resultados(aprendizagem/experiencia/relevancia): Sei navegar melhor na interface do Unity e criar algum codigo básico.
 
+Nome da atividade: Build 15 Augmented Reality (AR) apps with Unity & Vuforia
+Data: 20/11 - 1/12
+URL: https://www.udemy.com/course/develop-augmented-reality-book-ar-business-card-with-unity/&list=PL0eyrZgxdwhwQZ9zPUC7TnJ-S0KxqGlrN
+Racional da seleção: Um amigo pagou o curso e tambem era para iniciantes de AR, então fui faze-lo visto que na altura o meu conhecimento na area ainda era pouco.
+Pequeno resumo dos resultados(aprendizagem/experiencia/relevancia): É importante notar que o tutorial não estava atualizado e por isso algumas partes tive que procurar á parte. O que aprendi de forma resumida foi:
+	- Usar image target
+	- Virtual Buttons	
+	- Information Dashboard using Canvas
+	- Apply Sound and Animations on the objects
+	- Spawn de objectos
+	- Interagir e mexer os objectos na realidade aumentada.
 
 Videos:
+Nome da atividade: How to make a Waypoint System - 3D Compass Arrow
+Data: 30/11 - 30/11
+URL: https://www.youtube.com/watch?v=cUpwwvOKn7c&t=534s
+Racional da seleção: Estava a ter dificuldade a implementar uma seta a apontar para o robo e fazel-la girar num unico eixo (que se for em vários eixos dava resultados indesejaveis)
+Pequeno resumo dos resultados(aprendizagem/experiencia/relevancia): Consegui implementar a seta da maneira que queria e aprendi um bocado mais sobre marises de movimento e como as usar.
+
+
+Nome da atividade: How to Highlight NPCs (OnMouseHover) - RPG Ep 39? Maybe
+Data: 20/12 - 20/12
+URL: https://www.youtube.com/watch?v=0MDrqRodUW8&t=1004s
+Racional da seleção: Não sabia como fazer highlights e muito menos de partes diferentes do robo
+Pequeno resumo dos resultados(aprendizagem/experiencia/relevancia): Aprendi sobre a existencia de um shader (apesar do site que ele deu não funcionar, depois de alguma procura consegui encontra-lo) e utilizando-o consegui implementar o highlight, apesar de não estar a funcionar como queria, eventualmente arranjei os erros.
+
+Nome da atividade: Virtual buttons in AR with Vuforia in Unity3D - Part 1
+Data: 19/12 - 19/12
+URL: https://www.youtube.com/watch?v=Ckw4RKKVE3k
+Racional da seleção: Devido a limpar codigo acabei por perder a parte do virtual button e não me lembrava como tinha feito. Como sabia que o tutorial que tinha visto a algum tempo estava desatualizado, procurei um novo.
+Pequeno resumo dos resultados(aprendizagem/experiencia/relevancia): Consegui implentar o virtual button que na minha opinião foi ainda melhor que a ultima vez, tendo o codigo mais limpo e concentrado e facil de entender.
 
 
 Palestra:
-
-Nome da atividade: Beyond the M.Sc. - the state of innovation and main skills (by Ubiwhere)
-Data: October 20th, 2022
+Nome da actividade: Para além do M.Sc. - o estado da inovação e principais competências (por Ubiwhere)
+Data: 20 de Outubro de 2022
 URL:
-Racional da eleção: Seemed interesting at the time to know about the newest innovations
-Pequeno resumo dos resultados(aprendizagem/experiencia/relevancia): We learned the history of the Ubiwhere company and the various areas of interest (EX: Energy, health, etc).
-Learned of some of their projects, most of which focus on energy or information handling.
-They are aiming to build a smart city and thus, are building the foundation to support it through the various projects.
+Racional da seleção: Pareceu interessante, na altura, conhecer as mais recentes inovações
+Pequeno resumo dos resultados(aprendizagem/experiência/relevância): Aprendemos a história da empresa Ubiwhere e as várias áreas de interesse (EX: Energia, saúde, etc).
+Tomámos conhecimento de alguns dos seus projectos, a maioria dos quais se concentra no tratamento da energia ou da informação.
+O seu objectivo é construir uma cidade inteligente e, portanto, estão a construir as fundações para a apoiar através dos vários projectos.
 
-Nome da atividade: Como cumprir as normas de apresentações escrita das teses e dissertações da UA
-Data: October 24th, 2022
+Nome da actividade: Como cumprir as normas de apresentação escrita das teses e dissertações da UA
+Data: 24 de Outubro, 2022
 URL:
-Racional da seleção: Taught guidelines and where to get certain information for when we are writting our thesis, so it was very important to know as it will benefit us greatly.
-Pequeno resumo dos resultados(aprendizagem/experiencia/relevancia):
-	- Learned of the various ways we can get specific information regarding the guidlines and where to find them on the UA website
-	- Of the schedule and people that we can contact if we ever require help
-	- Some of the common problems that happen throughout the years and reasons why students have to delay their thesis though to simple mistakes while writting it.
-	- Realisation that there is a lot more information avaiable to us then I originally thought there was.
+Racional da seleção: Ensinou algumas guidelines e onde ir buscar vária informação sobre a escrita da dissertação, por isso foi muito importante saber, pois isso irá beneficiar-nos muito.
+Pequeno resumo dos resultados(aprendizagem/experiência/relevância):
+	- Tomámos conhecimento das várias formas de obter informação específica sobre as guidelines e onde encontrá-las no website da UA
+	- Do horário e das pessoas que podemos contactar se alguma vez precisarmos de ajuda
+	- Alguns dos problemas comuns que acontecem ao longo dos anos e as razões pelas quais os estudantes têm de adiar a sua tese a simples erros enquanto a escrevem.
+	- Perceber que há muito mais informação disponível para nós do que eu pensava inicialmente que havia.
+
+Nome da actividade: UI versus UX. Uma duvida persistente.
+Data: 29 de Novembro, 2022
+URL:
+Racional da seleção: Como a minha tese se centrará principalmente na construção da IU, pensei que seria uma boa ideia retocar algumas guidelines e truques ao fazer uma.
+resultados(aprendizagem/experiência/relevância): Começou como uma aula de IU. Falaram sobre os diferentes tipos e alguns truques que as pessoas fazem quando fazem um. Os Do's e Don't de quando se faz uma IU. Forneceram algumas fotos de diferentes IU e pediram ao público para pôr em prática os seus novos conhecimentos encontrados e descobrir porque é que essa IU não era boa. Na maioria das vezes, não era apenas um elemento que era mau, mas múltiplos. A segunda parte de tudo foi criada como tal: Grupos de 3 e cada um seria responsável pela construção da IU para uma área respectiva de uma aplicação. A aplicação era relacionada com alimentos e encomendas e a parte do meu grupo era após o pagamento ter sido feito AKA tracking and order details. Após cerca de 30 minutos, cada grupo apresentaria a sua parte. A terceira parte da actividade era uma demonstração sobre como utilizar Adobe XD e, mais tarde, utilizaríamos esta ferramenta para construir as IU.
+No geral, a experiência foi útil, uma vez que me lembrei de alguns princípios que tinha esquecido e até aprendido alguns princípios novos.

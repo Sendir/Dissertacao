@@ -61,7 +61,7 @@ The work will be organized according to the following plan:
 	- Porting app to devices
 	- Organization of scholar papers
 	- Set-up of Mendeley 
-	- Re-visited previous read thesis and papers to bring their notes to the new program (Foxit)
+	- Re-visited previous read thesis and papers to bring 4their notes to the new program (Foxit)
 	- Continuation of tutorial for Vuforia
 
 #### Semana 28/11 - 2/12
@@ -71,10 +71,85 @@ The work will be organized according to the following plan:
 	- Start writting thesis
 	- Iniciate the new tutorial
 - Final: 
+	- Did and watched various tutorials to gather the knowledge needed to implement some of what I wanted.
+	- Studied an example program to use the buttons from it for my app.
+	- Searched for a new, better, model of SPOT to use in unity
+	- Implemented virtual arrow to point to the robot
+	- Implemented better buttons for robot control
+	- Implemented a card with some details about the robot
+	- Linked the details to the robot controls so it updates with the necessary information.
+	- Didn't finish the paper but read more of it.
 
 
+#### Semana 05/12 - 09/12
+- Objective:
+	- Expand on the UI
+	- Finish reading the article
+	- Start reading next article
+	- Iniciate the new tutorial
+- Final: 
+	- Finished reading article
+	- Finished reading other article
+	- Began writting thesis
+
+#### Semana 12/12 - 16/12
+- Objective:
+	- Read another scholar paper
+	- Implement a gaming aspect to the app
+	- Change movement buttons to joysticks
+- Final: 
+	- Finished another scholar paper
+	- Implemented a gaming aspect to the app. Timer and score.
+	- Changed movement buttons to joysticks and did the necessary changes to make it work
 
 
+#### Semana 19/12 - 23/12
+- Objective:
+	- Plan out the pre-dissertion organization
+	- Implement a virtual button to highlight the different parts of the robot
+	- Implement a augmented reality tutorial to perform real-life tasks on a robot with the use of photos, arrows and highlighted parts
+- Final: 
+	- Planed out the pre-dissertion organization
+	- Implemented a virtual button to highlight the different parts of the robot
+	- Implemented a augmented reality tutorial to perform real-life tasks on a robot with the use of photos, arrows and highlighted parts
 
 
+#### Semana 26/12 - 30/12
+- Objective:
+	- Highlight bug fix (It would highlight the entire robot instead of a single part)
+	- Timer, UI, Highlight ajustements
+	- Link information about the robot to the AR information Dashboard to update in real time.
+- Final: 
+- Highlight bug fix
+	- Timer, UI, Highlight ajustements
+	- Linked information about the robot to the AR information Dashboard to update in real time.
+
+
+#### Semana 2/01 - 6/1
+- Objective:
+	- Read of some more scholar papers
+	- Writte State-Of-The-Art and Introduction
+- Final: 
+	- Finish reading more scholar papers
+- Wrote State-Of-The-Art and Introduction
+
+#### Semana 9/01 - 13/1
+- Objective:
+	- Read another scholar paper
+	- Re-writte and expanded State-Of-The-Art
+	- Fix various errors throughout the document
+	- Clean up of the Document
+- Final: 
+	- Finish reading one scholar paper
+- Re-writte and expanded State-Of-The-Art
+	- Fix various errors throughout the document (Spelling, misconcept about certain rules to write the document, etc)
+	- Clean up of the Document (Index, image captions, bibliography)
+
+#### Semana 16/01 - 20/1
+- Objective:
+	- Prepare Gantt Diagram
+	- Write Work-Plan portion
+- Final: 
+	- Prepare Gantt Diagram
+	- Wrote Work-Plan potion
 
